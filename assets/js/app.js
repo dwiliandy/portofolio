@@ -246,19 +246,15 @@ const translations = {
       "experience.backend.role": "Backend Developer",
       "experience.backend.desc": "Developing backend systems, APIs, business applications, database structures, and system integrations using Laravel, MySQL, and related technologies.",
 
-      "experience.erp.date": "2023 - Present",
+      "experience.erp.date": "2026 - Present",
       "experience.erp.role": "ERP Implementation",
       "experience.erp.desc": "Supporting ERP implementation projects including Accurate Online and Odoo, focusing on business processes, workflows, master data, and user access management.",
 
-      "experience.analyst.date": "2022 - Present",
-      "experience.analyst.role": "System Analyst",
-      "experience.analyst.desc": "Translating business requirements into technical solutions, workflow designs, database structures, and application specifications.",
-
-      "experience.automation.date": "2021 - Present",
+      "experience.automation.date": "2025 - Present",
       "experience.automation.role": "Automation Developer",
       "experience.automation.desc": "Building automation workflows, Telegram integrations, parsers, schedulers, and background processes using Python and related tools.",
 
-      "experience.product.date": "2021 - Present",
+      "experience.product.date": "2026 - Present",
       "experience.product.role": "Product Builder",
       "experience.product.desc": "Designing, developing, deploying, and maintaining digital products used by real users, including event platforms, automation services, and community applications.",
 
@@ -338,20 +334,16 @@ const translations = {
     "experience.backend.role": "Backend Developer",
     "experience.backend.desc": "Mengembangkan sistem backend, API, aplikasi bisnis, struktur database, dan integrasi sistem menggunakan Laravel, MySQL, dan teknologi terkait.",
 
-    "experience.erp.date": "2023 - Sekarang",
+    "experience.erp.date": "2026 - Sekarang",
     "experience.erp.role": "Implementasi ERP",
     "experience.erp.desc": "Mendukung proyek implementasi ERP seperti Accurate Online dan Odoo dengan fokus pada proses bisnis, workflow, master data, dan manajemen hak akses.",
 
-    "experience.analyst.date": "2022 - Sekarang",
-    "experience.analyst.role": "System Analyst",
-    "experience.analyst.desc": "Menerjemahkan kebutuhan bisnis menjadi solusi teknis, desain workflow, struktur database, dan spesifikasi aplikasi.",
-
-    "experience.automation.date": "2021 - Sekarang",
+    "experience.automation.date": "2025 - Sekarang",
     "experience.automation.role": "Automation Developer",
     "experience.automation.desc": "Membangun workflow automasi, integrasi Telegram, parser data, scheduler, dan proses background menggunakan Python dan teknologi terkait.",
 
-    "experience.product.date": "2021 - Sekarang",
-    "experience.product.role": "Product Builder",
+    "experience.product.date": "2026 - Sekarang",
+    "experience.product.role": "Product Builder", 
     "experience.product.desc": "Merancang, mengembangkan, melakukan deployment, dan memelihara produk digital yang digunakan pengguna nyata, termasuk platform acara, layanan automasi, dan aplikasi komunitas.",
 
     "contact.title": "Hubungi Saya",
